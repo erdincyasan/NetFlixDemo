@@ -1,0 +1,15 @@
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\bin\Debug\netcoreapp3.1\Netflix.DataAccess.deps.json
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\bin\Debug\netcoreapp3.1\Netflix.DataAccess.runtimeconfig.json
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\bin\Debug\netcoreapp3.1\Netflix.DataAccess.runtimeconfig.dev.json
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\bin\Debug\netcoreapp3.1\Netflix.DataAccess.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\bin\Debug\netcoreapp3.1\Netflix.DataAccess.pdb
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\bin\Debug\netcoreapp3.1\Netflix.Entities.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\bin\Debug\netcoreapp3.1\Netflix.Entities.pdb
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.csproj.AssemblyReference.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.AssemblyInfoInputs.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.AssemblyInfo.cs
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.csproj.CopyComplete
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.pdb
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.DataAccess\obj\Debug\netcoreapp3.1\Netflix.DataAccess.genruntimeconfig.cache

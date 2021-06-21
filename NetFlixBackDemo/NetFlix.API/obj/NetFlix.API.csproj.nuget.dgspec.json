@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.API\\NetFlix.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.API\\NetFlix.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.API\\NetFlix.API.csproj",
+        "projectName": "NetFlix.API",
+        "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.API\\NetFlix.API.csproj",
+        "packagesPath": "C:\\Users\\erhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.Business\\Netflix.Business.csproj": {
+                "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.Business\\Netflix.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.16, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.Business\\Netflix.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.Business\\Netflix.Business.csproj",
+        "projectName": "Netflix.Business",
+        "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.Business\\Netflix.Business.csproj",
+        "packagesPath": "C:\\Users\\erhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.DataAccess\\Netflix.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.DataAccess\\Netflix.DataAccess.csproj"
+              },
+              "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\Netflix.Entities.csproj": {
+                "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\Netflix.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.DataAccess\\Netflix.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.DataAccess\\Netflix.DataAccess.csproj",
+        "projectName": "Netflix.DataAccess",
+        "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.DataAccess\\Netflix.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\erhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\Netflix.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\Netflix.Entities.csproj": {
+                "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\Netflix.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\Netflix.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\Netflix.Entities.csproj",
+        "projectName": "Netflix.Entities",
+        "projectPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\Netflix.Entities.csproj",
+        "packagesPath": "C:\\Users\\erhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erhu\\source\\repos\\NetFlixBackDemo\\NetFlix.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

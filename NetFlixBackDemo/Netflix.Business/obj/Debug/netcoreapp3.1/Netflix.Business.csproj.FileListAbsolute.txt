@@ -1,0 +1,14 @@
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\bin\Debug\netcoreapp3.1\Netflix.Business.deps.json
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\bin\Debug\netcoreapp3.1\Netflix.Business.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\bin\Debug\netcoreapp3.1\Netflix.Business.pdb
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\bin\Debug\netcoreapp3.1\Netflix.DataAccess.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\bin\Debug\netcoreapp3.1\Netflix.Entities.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\bin\Debug\netcoreapp3.1\Netflix.DataAccess.pdb
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\bin\Debug\netcoreapp3.1\Netflix.Entities.pdb
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\obj\Debug\netcoreapp3.1\Netflix.Business.csproj.AssemblyReference.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\obj\Debug\netcoreapp3.1\Netflix.Business.AssemblyInfoInputs.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\obj\Debug\netcoreapp3.1\Netflix.Business.AssemblyInfo.cs
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\obj\Debug\netcoreapp3.1\Netflix.Business.csproj.CoreCompileInputs.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\obj\Debug\netcoreapp3.1\Netflix.Business.csproj.CopyComplete
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\obj\Debug\netcoreapp3.1\Netflix.Business.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\Netflix.Business\obj\Debug\netcoreapp3.1\Netflix.Business.pdb

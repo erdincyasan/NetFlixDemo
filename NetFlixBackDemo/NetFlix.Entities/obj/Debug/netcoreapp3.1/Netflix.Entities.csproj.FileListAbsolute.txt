@@ -1,0 +1,9 @@
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\bin\Debug\netcoreapp3.1\Netflix.Entities.deps.json
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\bin\Debug\netcoreapp3.1\Netflix.Entities.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\bin\Debug\netcoreapp3.1\Netflix.Entities.pdb
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\obj\Debug\netcoreapp3.1\Netflix.Entities.csproj.AssemblyReference.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\obj\Debug\netcoreapp3.1\Netflix.Entities.AssemblyInfoInputs.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\obj\Debug\netcoreapp3.1\Netflix.Entities.AssemblyInfo.cs
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\obj\Debug\netcoreapp3.1\Netflix.Entities.csproj.CoreCompileInputs.cache
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\obj\Debug\netcoreapp3.1\Netflix.Entities.dll
+C:\Users\erhu\source\repos\NetFlixBackDemo\NetFlix.Entities\obj\Debug\netcoreapp3.1\Netflix.Entities.pdb
